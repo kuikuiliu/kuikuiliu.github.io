@@ -3,7 +3,7 @@ layout: archive
 title: "6.S891: Algorithmic Counting and Sampling"
 collection: teaching
 type: "Graduate special topics course"
-permalink: /teaching/Au2023-counting-sampling
+permalink: /teaching/au2023
 #venue: "MIT EECS"
 #date: 2023-09-06
 semester: "Fall 2023"
