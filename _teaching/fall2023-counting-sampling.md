@@ -25,7 +25,7 @@ This course introduces the modern theory of algorithms for sampling from high-di
 **Other Linkage:** [Canvas](https://canvas.mit.edu/courses/23296), [psetpartners](https://psetpartners.mit.edu/), [(Very Approximate) Syllabus](/files/au2023/6S891-approx-syllabus.pdf)
 
 ## Additional Resources
-[Summer School](https://sites.cs.ucsb.edu/~vigoda/School/) on Spectral Independence and Entropy Decay <br />
+[Summer School](https://sites.cs.ucsb.edu/~vigoda/School/) on "Spectral Independence and Entropy Decay" <br />
 [Course](https://sites.cs.ucsb.edu/~vigoda/MCMC/) by Eric Vigoda <br />
 [Course](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html) by Shayan Oveis Gharan <br />
 [Course](http://people.csail.mit.edu/costis/6896sp11/) by Costis Daskalakis <br />
