@@ -25,7 +25,6 @@ This course introduces the modern theory of algorithms for sampling from high-di
 **Other Linkage:** [Canvas](https://canvas.mit.edu/courses/23296), [psetpartners](https://psetpartners.mit.edu/), [(Very Approximate) Syllabus](/files/au2023/6S891-approx-syllabus.pdf)
 
 ## Additional Resources
-[Summer School](https://sites.cs.ucsb.edu/~vigoda/School/) on "Spectral Independence and Entropy Decay" <br />
 [Course](https://sites.cs.ucsb.edu/~vigoda/MCMC/) by Eric Vigoda <br />
 [Course](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html) by Shayan Oveis Gharan <br />
 [Course](http://people.csail.mit.edu/costis/6896sp11/) by Costis Daskalakis <br />
@@ -33,7 +32,8 @@ This course introduces the modern theory of algorithms for sampling from high-di
 ["Markov Chains and Mixing Times"](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) by Levin&mdash;Peres&mdash;Wilmer <br />
 ["Mathematical Aspects of Mixing Times"](https://tetali.math.gatech.edu/PUBLIS/survey.pdf) by Montenegro&mdash;Tetali <br />
 ["Counting and Markov Chains"](https://www.math.cmu.edu/~af1p/Teaching/MCC17/Papers/JerrumBook) by Jerrum <br />
-["Combinatorics and Complexity of Partition Functions"](https://dept.math.lsa.umich.edu/~barvinok/notespartition.pdf) by Barvinok (see also his [book](https://books.google.com/books/about/Combinatorics_and_Complexity_of_Partitio.html?id=9LlZDgAAQBAJ))
+["Combinatorics and Complexity of Partition Functions"](https://dept.math.lsa.umich.edu/~barvinok/notespartition.pdf) by Barvinok (see also his [book](https://books.google.com/books/about/Combinatorics_and_Complexity_of_Partitio.html?id=9LlZDgAAQBAJ)) <br />
+[Summer School](https://sites.cs.ucsb.edu/~vigoda/School/) on "Spectral Independence and Entropy Decay"
 
 ## Homework
 [Problem Set 1](/files/au2023/pset1.pdf) (Due: Sept. 28, 11:59pm EST) <br />
