@@ -34,7 +34,6 @@ This course introduces the modern theory of algorithms for sampling from high-di
 ["Counting and Markov Chains"](https://www.math.cmu.edu/~af1p/Teaching/MCC17/Papers/JerrumBook) by Jerrum <br />
 ["Combinatorics and Complexity of Partition Functions"](https://dept.math.lsa.umich.edu/~barvinok/notespartition.pdf) by Barvinok (see also his [book](https://books.google.com/books/about/Combinatorics_and_Complexity_of_Partitio.html?id=9LlZDgAAQBAJ)) <br />
 ["Statistical Mechanics of Lattice Systems"](https://www.unige.ch/math/folks/velenik/smbook/) by Friedli&mdash;Velenik <br />
-
 [Summer School](https://sites.cs.ucsb.edu/~vigoda/School/) on "Spectral Independence and Entropy Decay"
 
 ## Homework
