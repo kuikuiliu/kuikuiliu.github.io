@@ -52,4 +52,8 @@ Sept. 26: [Phase Transitions and the Hardcore Model](/files/au2023/6S891-lec6.pd
 Sept. 28: [Correlation Decay Algorithm](/files/au2023/6S891-lec7.pdf) <br />
 Oct. 3: [Polynomial Interpolation Method](/files/au2023/6S891-lec8.pdf) <br />
 Oct. 5: [Monomer-Dimer Zero-Freeness](/files/au2023/6S891-lec9.pdf) <br />
+Oct. 10: No class, student holiday <br />
+Oct. 12: [Lee&mdash;Yang Circle Theorem and Multivariate Stability](/files/au2023/6S891-lec10.pdf) <br />
+Oct. 17: [Polymer Models and the Cluster Expansion](/files/au2023/6S891-lec11.pdf) <br />
+
 
