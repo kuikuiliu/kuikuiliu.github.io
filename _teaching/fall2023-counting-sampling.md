@@ -40,8 +40,9 @@ This course introduces the modern theory of algorithms for sampling from high-di
 
 ## Homework
 [Problem Set 1](/files/au2023/pset1.pdf) (Due: Sept. 28, 11:59pm EST) <br />
-Problem Set 2 (forthcoming) <br />
-Problem Set 3 (forthcoming)
+[Problem Set 2](/files/au2023/pset2.pdf) (Due: Nov. 2, 11:59pm EST) <br />
+Problem Set 3 (forthcoming) <br />
+(All solutions are available on [Canvas](https://canvas.mit.edu/courses/23296).)
 
 ## Lecture Notes
 Sept. 7: [Intro to Counting and Sampling](/files/au2023/6S891-lec1.pdf) <br />
@@ -56,5 +57,6 @@ Oct. 5: [Monomer-Dimer Zero-Freeness](/files/au2023/6S891-lec9.pdf) <br />
 Oct. 10: No class, student holiday <br />
 Oct. 12: [Lee&mdash;Yang Circle Theorem and Multivariate Stability](/files/au2023/6S891-lec10.pdf) <br />
 Oct. 17: [Polymer Models and the Cluster Expansion](/files/au2023/6S891-lec11.pdf) <br />
+Oct. 19: [Finish Cluster Expansion, Functional Analysis for MCMC](/files/au2023/6S891-lec12.pdf) <br />
 
 
