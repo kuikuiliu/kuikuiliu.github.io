@@ -29,6 +29,7 @@ This course introduces the modern theory of algorithms for sampling from high-di
 [Course](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html) by Shayan Oveis Gharan <br />
 [Course](http://people.csail.mit.edu/costis/6896sp11/) by Costis Daskalakis <br />
 [Course](https://people.eecs.berkeley.edu/~sinclair/cs294/f23.html) by Alistair Sinclair <br />
+[Course](https://nimaanari.com/cs263-autumn2023/) by Nima Anari <br />
 ["Markov Chains and Mixing Times"](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) by Levin&mdash;Peres&mdash;Wilmer <br />
 ["Mathematical Aspects of Mixing Times"](https://tetali.math.gatech.edu/PUBLIS/survey.pdf) by Montenegro&mdash;Tetali <br />
 ["Counting and Markov Chains"](https://www.math.cmu.edu/~af1p/Teaching/MCC17/Papers/JerrumBook) by Jerrum <br />
