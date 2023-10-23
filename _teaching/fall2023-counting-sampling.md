@@ -39,6 +39,7 @@ This course introduces the modern theory of algorithms for sampling from high-di
 [Summer School](https://sites.cs.ucsb.edu/~vigoda/School/) on "Spectral Independence and Entropy Decay"
 
 ## Homework
+[Final Project](/files/au2023/6S891-final-project.pdf) <br />
 [Problem Set 1](/files/au2023/pset1.pdf) (Due: Sept. 28, 11:59pm EST) <br />
 [Problem Set 2](/files/au2023/pset2.pdf) (Due: Nov. 2, 11:59pm EST) <br />
 Problem Set 3 (forthcoming) <br />
