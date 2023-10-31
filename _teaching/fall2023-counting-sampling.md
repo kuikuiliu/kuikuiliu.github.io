@@ -59,5 +59,8 @@ Oct. 10: No class, student holiday <br />
 Oct. 12: [Lee&mdash;Yang Circle Theorem and Multivariate Stability](/files/au2023/6S891-lec10.pdf) <br />
 Oct. 17: [Polymer Models and the Cluster Expansion](/files/au2023/6S891-lec11.pdf) <br />
 Oct. 19: [Finish Cluster Expansion, Functional Analysis for MCMC](/files/au2023/6S891-lec12.pdf) <br />
-
+Oct. 24: [Spectral Independence, Local-to-Global Theorems](/files/au2023/6S891-lec13.pdf) <br />
+Oct. 26: No class, instructor sick <br />
+Oct. 31: [Optimal Mixing of Glauber Dynamics, Entropic Independence](/files/au2023/6S891-lec14.pdf) <br />
+Nov. 2: [Entropic Independece (cont.), Spectral Independence via Mixing](/files/au2023/6S891-lec15.pdf) <br />
 
