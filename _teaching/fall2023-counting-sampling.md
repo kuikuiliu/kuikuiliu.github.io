@@ -62,5 +62,7 @@ Oct. 19: [Cluster Expansion (cont.), Functional Analysis for MCMC](/files/au2023
 Oct. 24: [Spectral Independence](/files/au2023/6S891-lec13.pdf) <br />
 Oct. 26: No class, instructor sick <br />
 Oct. 31: [Optimal Mixing of Glauber Dynamics, Entropic Independence](/files/au2023/6S891-lec14.pdf) <br />
-Nov. 2: [Entropic Independece (cont.), Spectral Independence via Mixing](/files/au2023/6S891-lec15.pdf) <br />
+Nov. 2: [Entropic Independence (cont.), Spectral Independence via Mixing](/files/au2023/6S891-lec15.pdf) <br />
+Nov. 7: [Spectral Independence via Correlation Decay](/files/au2023/6S891-lec16.pdf) <br />
+Nov. 9: [Spectral Independence via Zero-Freeness](/files/au2023/6S891-lec17.pdf) <br />
 
