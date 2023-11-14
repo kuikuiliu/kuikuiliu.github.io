@@ -65,4 +65,6 @@ Oct. 31: [Optimal Mixing of Glauber Dynamics, Entropic Independence](/files/au20
 Nov. 2: [Entropic Independence (cont.), Spectral Independence via Mixing](/files/au2023/6S891-lec15.pdf) <br />
 Nov. 7: [Spectral Independence via Correlation Decay](/files/au2023/6S891-lec16.pdf) <br />
 Nov. 9: [Spectral Independence via Zero-Freeness](/files/au2023/6S891-lec17.pdf) <br />
+Nov. 14: [Matroids, Trickle-Down, and Log-Concavity](/files/au2023/6S891-lec18.pdf) <br />
+Nov. 16: [Disagreement Percolation](/files/au2023/6S891-lec19.pdf) <br />
 
