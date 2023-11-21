@@ -67,4 +67,7 @@ Nov. 7: [Spectral Independence via Correlation Decay](/files/au2023/6S891-lec16.
 Nov. 9: [Spectral Independence via Zero-Freeness](/files/au2023/6S891-lec17.pdf) <br />
 Nov. 14: [Matroids, Trickle-Down, and Log-Concavity](/files/au2023/6S891-lec18.pdf) <br />
 Nov. 16: [Disagreement Percolation](/files/au2023/6S891-lec19.pdf) <br />
+Nov. 21: [Sampling Lov&aacute;sz Local Lemma](/files/au2023/6S891-lec20.pdf) <br />
+Nov. 23: No class, Thanksgiving holiday <br />
+Nov. 28: [Localization Schemes](/files/au2023/6S891-lec21.pdf) <br />
 
