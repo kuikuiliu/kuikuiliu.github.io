@@ -73,4 +73,5 @@ Nov. 28: [Localization Schemes](/files/au2023/6S891-lec21.pdf) (Note: Some mater
 Nov. 30: [Intro to Variational Methods, Na&iuml;ve Mean-Field](/files/au2023/6S891-lec22.pdf) <br />
 Dec. 5: [Convex Relaxations, Log-Concavity](/files/au2023/6S891-lec23.pdf) <br />
 Dec. 7: [Gurvits Capacity, Mixed Volumes](/files/au2023/6S891-lec24.pdf) <br />
+Dec. 12: [Nonlinear Large Deviations](/files/au2023/6S891-lec25.pdf) <br />
 
