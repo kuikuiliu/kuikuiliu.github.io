@@ -40,9 +40,9 @@ This course introduces the modern theory of algorithms for sampling from high-di
 
 ## Homework
 [Final Project](/files/au2023/6S891-final-project.pdf) <br />
-[Problem Set 1](/files/au2023/pset1.pdf) (Due: Sept. 28, 11:59pm EST) <br />
-[Problem Set 2](/files/au2023/pset2.pdf) (Due: Nov. 2, 11:59pm EST) <br />
-[Problem Set 3](/files/au2023/pset3.pdf) (Due: Nov. 30, 11:59pm EST) <br />
+[Problem Set 1](/files/au2023/6S891-pset1.pdf) (Due: Sept. 28, 11:59pm EST) <br />
+[Problem Set 2](/files/au2023/6S891-pset2.pdf) (Due: Nov. 2, 11:59pm EST) <br />
+[Problem Set 3](/files/au2023/6S891-pset3.pdf) (Due: Nov. 30, 11:59pm EST) <br />
 (All solutions are available on [Canvas](https://canvas.mit.edu/courses/23296).)
 
 ## Lecture Notes
