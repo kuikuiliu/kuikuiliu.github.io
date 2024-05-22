@@ -7,11 +7,11 @@ author_profile: false
 
 **[Fast Mixing in Sparse Random Ising Models](https://arxiv.org/abs/2405.06616)** <br />
 with [Sidhanth Mohanty](https://sidhanthm.com/), [Amit Rajaraman](https://amitrajaraman.github.io/about/), [David X. Wu](https://davidxwu.github.io/) <br />
-*(Submitted)*
+*(Submitted 2024)*
 
 **[Practical Performance Guarantees for Pipelined DNN Inference](https://arxiv.org/abs/2311.03703)** <br />
 with [Aaron Archer](https://research.google/people/aaron-archer/), [Matthew Fahrbach](https://www.matthewfahrbach.com/), Prakash Prabhu <br />
-*(ICML 2024)*
+*(to appear in ICML 2024)*
 
 **[Strong spatial mixing for colorings on trees and its algorithmic applications](https://arxiv.org/abs/2304.01954)** <br />
 with [Zongchen Chen](https://sites.google.com/view/zongchenchen/home), [Nitya Mani](https://www.mit.edu/~nmani/), [Ankur Moitra](https://people.csail.mit.edu/moitra/) <br />
@@ -50,7 +50,7 @@ with [Nima Anari](https://nimaanari.com/), [Shayan Oveis Gharan](https://homes.c
 
 **[Log-Concave Polynomials III: Mason's Ultra-Log-Concavity Conjecture for Independent Sets of Matroids](https://arxiv.org/abs/1811.01600)** <br />
 with [Nima Anari](https://nimaanari.com/), [Shayan Oveis Gharan](https://homes.cs.washington.edu/~shayan/), [Cynthia Vinzant](http://sites.math.washington.edu/~vinzant/) <br />
-*(preprint 2018)*
+*(preprint 2018; to appear in Proc. Amer. Math. Soc. 2024)*
 
 My survey on **[The Method of Interlacing Polynomials](https://s3-us-west-2.amazonaws.com/www-cse-public/ugrad/thesis/KuikuiLui.pdf)** <br />
 *(UW CSE 2017 Best Senior Thesis Award)*
