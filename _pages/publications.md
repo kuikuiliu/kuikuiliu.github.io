@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 **[Fast Mixing in Sparse Random Ising Models](https://arxiv.org/abs/2405.06616)** <br />
-with [Sidhanth Mohanty](https://sidhanthm.com/), [Amit Rajaraman](https://amitrajaraman.github.io/about/), [David X. Wu](https://davidxwu.github.io/)
+with [Sidhanth Mohanty](https://sidhanthm.com/), [Amit Rajaraman](https://amitrajaraman.github.io/about/), [David X. Wu](https://davidxwu.github.io/) <br />
 *(Submitted)*
 
 **[Practical Performance Guarantees for Pipelined DNN Inference](https://arxiv.org/abs/2311.03703)** <br />
