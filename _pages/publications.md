@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: false
 ---
 
+**[Fast Mixing in Sparse Random Ising Models](https://arxiv.org/abs/2405.06616)** <br />
+with [Sidhanth Mohanty](https://sidhanthm.com/), [Amit Rajaraman](https://amitrajaraman.github.io/about/), [David X. Wu](https://davidxwu.github.io/)
+*(Submitted)*
+
+**[Practical Performance Guarantees for Pipelined DNN Inference](https://arxiv.org/abs/2311.03703)** <br />
+with [Aaron Archer](https://research.google/people/aaron-archer/), [Matthew Fahrbach](https://www.matthewfahrbach.com/), Prakash Prabhu <br />
+*(ICML 2024)*
+
 **[Strong spatial mixing for colorings on trees and its algorithmic applications](https://arxiv.org/abs/2304.01954)** <br />
 with [Zongchen Chen](https://sites.google.com/view/zongchenchen/home), [Nitya Mani](https://www.mit.edu/~nmani/), [Ankur Moitra](https://people.csail.mit.edu/moitra/) <br />
 *(FOCS 2023)*
