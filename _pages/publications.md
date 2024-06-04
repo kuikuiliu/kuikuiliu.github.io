@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: false
 ---
 
+**[Locally Stationary Distributions: A Framework for Analyzing Slow-Mixing Markov Chains](https://arxiv.org/abs/2405.20849)** <br />
+with [Sidhanth Mohanty](https://sidhanthm.com/), [Prasad Raghavendra](https://people.eecs.berkeley.edu/~prasad/), [Amit Rajaraman](https://amitrajaraman.github.io/about/), [David X. Wu](https://davidxwu.github.io/) <br />
+*(Submitted 2024)*
+
 **[Fast Mixing in Sparse Random Ising Models](https://arxiv.org/abs/2405.06616)** <br />
 with [Sidhanth Mohanty](https://sidhanthm.com/), [Amit Rajaraman](https://amitrajaraman.github.io/about/), [David X. Wu](https://davidxwu.github.io/) <br />
 *(Submitted 2024)*
