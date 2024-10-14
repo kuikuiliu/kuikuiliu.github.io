@@ -15,5 +15,5 @@ My dissertation can be found [here](/files/dissertation.pdf).
 I am currently working with the following excellent graduate students:
 - [Francisco Pernice](https://sites.google.com/view/franciscopernice/home) (coadvised with [David Gamarnik](https://web.mit.edu/gamarnik/www/home.html))
 - [Amit Rajaraman](https://amitrajaraman.github.io/) (coadvised with [Sam Hopkins](https://www.samuelbhopkins.com/))
-- [Daniel Lee](https://dan-iel-lee.github.io/)
+- [Daniel Lee](https://dan-iel-lee.vercel.app/)
 
