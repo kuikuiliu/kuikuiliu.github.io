@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: false
 ---
 
+**[Counterexamples to a Weitz-Style Reduction for Multispin Systems](https://arxiv.org/abs/2411.06541)** <br />
+with [Nitya Mani](https://www.mit.edu/~nmani/), [Francisco Pernice](https://sites.google.com/view/franciscopernice/home) <br />
+*(Submitted 2024)*
+
 **[Locally Stationary Distributions: A Framework for Analyzing Slow-Mixing Markov Chains](https://arxiv.org/abs/2405.20849)** <br />
 with [Sidhanth Mohanty](https://sidhanthm.com/), [Prasad Raghavendra](https://people.eecs.berkeley.edu/~prasad/), [Amit Rajaraman](https://amitrajaraman.github.io/about/), [David X. Wu](https://davidxwu.github.io/) <br />
 *(FOCS 2024)*
