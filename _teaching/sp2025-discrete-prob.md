@@ -28,7 +28,8 @@ MIT's Course Description: Provides an introduction to tools used for probabilist
 On [Canvas](https://canvas.mit.edu/courses/31861) <br />
 
 ## Lecture Notes
-Feb. 3: [Course Intro, Percolation, Connectivity Phase Transition](/files/sp2025/67720-sp2025-lec1.pdf) <br />
+Feb. 3: [Course Intro, Percolation, Connectivity Phase Transition in Erd&ouml;s&mdash;R&eacute;nyi](/files/sp2025/67720-sp2025-lec1.pdf) <br />
 Feb. 5: [Paley&mdash;Zygmund, Branching Processes](/files/sp2025/67720-sp2025-lec2.pdf) <br />
 Feb. 10: [Second Moment Method (cont.), Hypothesis Testing, Broadcast Process](/files/sp2025/67720-sp2025-lec3.pdf) <br />
+Feb. 12: [Lov&aacute;sz Local Lemma](files/sp2025/67720-sp2025-lec4.pdf) <br />
 
