@@ -33,4 +33,6 @@ Feb. 5: [Paley&mdash;Zygmund, Branching Processes](/files/sp2025/67720-sp2025-le
 Feb. 10: [Second Moment Method (cont.), Hypothesis Testing, Broadcast Process](/files/sp2025/67720-sp2025-lec3.pdf) <br />
 Feb. 12: [Lov&aacute;sz Local Lemma](/files/sp2025/67720-sp2025-lec4.pdf) <br />
 Feb. 18: [Weak Law of Large Numbers, Shannon's Noisy Coding Theorem](/files/sp2025/67720-sp2025-lec5.pdf) <br />
+Feb. 19: [Chernoff Bounds](/files/sp2025/67720-sp2025-lec6.pdf) <br />
+
 
