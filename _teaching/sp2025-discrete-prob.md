@@ -35,4 +35,5 @@ Feb. 12: [Lov&aacute;sz Local Lemma](/files/sp2025/67720-sp2025-lec4.pdf) <br />
 Feb. 18: [Weak Law of Large Numbers, Shannon's Noisy Coding Theorem](/files/sp2025/67720-sp2025-lec5.pdf) <br />
 Feb. 19: [Chernoff Bounds](/files/sp2025/67720-sp2025-lec6.pdf) <br />
 Feb. 24: [Sub-Gaussian Random Variables](/files/sp2025/67720-sp2025-lec7.pdf) <br />
+Feb. 26: [Sub-Exponential Random Variables, Poisson Limit](/files/sp2025/67720-sp2025-lec8.pdf) <br />
 
