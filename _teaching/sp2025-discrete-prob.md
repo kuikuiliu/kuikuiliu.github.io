@@ -36,4 +36,5 @@ Feb. 18: [Weak Law of Large Numbers, Shannon's Noisy Coding Theorem](/files/sp20
 Feb. 19: [Chernoff Bounds](/files/sp2025/67720-sp2025-lec6.pdf) <br />
 Feb. 24: [Sub-Gaussian Random Variables](/files/sp2025/67720-sp2025-lec7.pdf) <br />
 Feb. 26: [Sub-Exponential Random Variables, Poisson Limit](/files/sp2025/67720-sp2025-lec8.pdf) <br />
+Mar. 3: [Introduction to Martingales, Azuma&mdash;Hoeffding and McDiarmid's Inequalities](/files/sp2025/67720-sp2025-lec9.pdf) <br />
 
