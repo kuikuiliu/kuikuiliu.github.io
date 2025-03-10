@@ -38,4 +38,5 @@ Feb. 24: [Sub-Gaussian Random Variables](/files/sp2025/67720-sp2025-lec7.pdf) <b
 Feb. 26: [Sub-Exponential Random Variables, Poisson Limit](/files/sp2025/67720-sp2025-lec8.pdf) <br />
 Mar. 3: [Introduction to Martingales, Azuma&mdash;Hoeffding and McDiarmid's Inequalities](/files/sp2025/67720-sp2025-lec9.pdf) <br />
 Mar. 5: [Doob's Optional Stopping Theorem](/files/sp2025/67720-sp2025-lec10.pdf) <br />
+Mar. 10: [Stochastic Euclidean TSP](/files/sp2025/67720-sp2025-lec11.pdf) <br />
 
