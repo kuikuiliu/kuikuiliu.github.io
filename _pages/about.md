@@ -12,8 +12,11 @@ I am a mathematician/computer scientist in the [Theory Group](https://toc.csail.
 
 My dissertation can be found [here](/files/dissertation.pdf).
 
-I am currently working with the following excellent graduate students:
-- [Francisco Pernice](https://sites.google.com/view/franciscopernice/home) (coadvised with [David Gamarnik](https://web.mit.edu/gamarnik/www/home.html))
-- [Amit Rajaraman](https://amitrajaraman.github.io/) (coadvised with [Sam Hopkins](https://www.samuelbhopkins.com/))
+I am currently advising the following brilliant Ph.D. student(s)
+- [Francisco Pernice](https://sites.google.com/view/franciscopernice/home) (with [David Gamarnik](https://web.mit.edu/gamarnik/www/home.html))
+- [Amit Rajaraman](https://amitrajaraman.github.io/) (with [Sam Hopkins](https://www.samuelbhopkins.com/))
 - [Daniel Lee](https://dan-iel-lee.vercel.app/)
+
+and postdoc(s)
+- [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/)
 
