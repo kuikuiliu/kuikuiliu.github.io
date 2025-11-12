@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers"
 permalink: /publications/
 author_profile: false
 ---
 
 **[On Zeros and Algorithms for Disordered Systems: Mean-Field Spin Glasses](https://arxiv.org/abs/2507.15616)** <br />
-with [Ferenc Bencs](https://bencsf.github.io/), [Guus Regts](https://sites.google.com/site/guusregts/home) <br />
+with [Ferenc Bencs](https://bencsf.github.io/), [Brice Huang](https://www.bricehuang.com/index.html), [Daniel Z. Lee](https://dan-iel-lee.vercel.app/), [Guus Regts](https://sites.google.com/site/guusregts/home) <br />
 *(Submitted 2025)*
 
 **[Counterexamples to a Weitz-Style Reduction for Multispin Systems](https://arxiv.org/abs/2411.06541)** <br />
