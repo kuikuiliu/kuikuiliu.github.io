@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: false
 ---
 
+**[Subquadratic Counting via Perfect Marginal Sampling](https://arxiv.org/pdf/2604.02235)** <br />
+with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/), [Zongchen Chen](https://sites.google.com/view/zongchenchen/home), [Xinyuan Zhang](https://sites.google.com/view/xinyuanzhang) <br />
+*(Submitted 2026)*
+
 **[On Zeros and Algorithms for Disordered Systems: Mean-Field Spin Glasses](https://arxiv.org/abs/2507.15616)** <br />
 with [Ferenc Bencs](https://bencsf.github.io/), [Brice Huang](https://www.bricehuang.com/index.html), [Daniel Z. Lee](https://dan-iel-lee.vercel.app/), [Guus Regts](https://sites.google.com/site/guusregts/home) <br />
 *(STOC 2026)*
