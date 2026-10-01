@@ -5,9 +5,17 @@ permalink: /publications/
 author_profile: false
 ---
 
+**[Spectral Gap of Down-Up Walks via Trickle-Down: A Simplified and Sharpened Analysis](https://arxiv.org/abs/2609.19514)** <br />
+with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/) <br />
+*(Expository Note 2026; Not Intended for Publication)*
+
+**[A Spectral Local-to-Global Principle for Spin Systems on Graphs with Girth At Least Five](https://arxiv.org/abs/2608.25491)** <br />
+with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/) <br />
+*(Submitted 2026)*
+
 **[Subquadratic Counting via Perfect Marginal Sampling](https://arxiv.org/abs/2604.02235)** <br />
 with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/), [Zongchen Chen](https://sites.google.com/view/zongchenchen/home), [Xinyuan Zhang](https://sites.google.com/view/xinyuanzhang) <br />
-*(Submitted 2026)*
+*(FOCS 2026)*
 
 **[On Zeros and Algorithms for Disordered Systems: Mean-Field Spin Glasses](https://arxiv.org/abs/2507.15616)** <br />
 with [Ferenc Bencs](https://bencsf.github.io/), [Brice Huang](https://www.bricehuang.com/index.html), [Daniel Z. Lee](https://dan-iel-lee.vercel.app/), [Guus Regts](https://sites.google.com/site/guusregts/home) <br />
