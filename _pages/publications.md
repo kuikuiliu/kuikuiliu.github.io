@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: false
 ---
 
+**[An FPRAS for Counting Common Bases of Two Matroids](https://arxiv.org/abs/2610.06724)** <br />
+with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/) <br />
+*(Preprint 2026)*
+
 **[Spectral Gap of Down-Up Walks via Trickle-Down: A Simplified and Sharpened Analysis](https://arxiv.org/abs/2609.19514)** <br />
 with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/) <br />
 *(Expository Note 2026; Not Intended for Publication)*
 
 **[A Spectral Local-to-Global Principle for Spin Systems on Graphs with Girth At Least Five](https://arxiv.org/abs/2608.25491)** <br />
 with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/) <br />
-*(Submitted 2026)*
+*(Preprint 2026)*
 
 **[Subquadratic Counting via Perfect Marginal Sampling](https://arxiv.org/abs/2604.02235)** <br />
 with [Xiaoyu Chen](https://chenxiaoyu233.github.io/info/), [Zongchen Chen](https://sites.google.com/view/zongchenchen/home), [Xinyuan Zhang](https://sites.google.com/view/xinyuanzhang) <br />
